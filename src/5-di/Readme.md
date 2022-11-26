@@ -1,2 +1,3 @@
-**ISP**: Interface Segregation Principle
+**ISP**: Interface Segregation Principle:
+
 **_Depend upon abstractions, [not] concretions._**
